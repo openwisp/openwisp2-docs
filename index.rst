@@ -69,3 +69,5 @@ with using OpenWISP.**
       developer/gsoc-ideas-2024
       developer/google-code-in
       developer/hacktoberfest
+
+   You can check the :ref:`reference of this documentation <reference>` for details.
