@@ -106,7 +106,7 @@ this to be applied automatically when new devices register!
 .. note::
   If you want to find out more about templates,
   consult the documentation section dedicated to
-  :doc:`Configuration Templates <../user/templates>`.
+  :doc:`Configuration Templates </controller/user/templates>`.
 
 Multiple SSIDs, multiple radios
 -------------------------------
@@ -175,7 +175,7 @@ Monitoring WiFi Clients
 
 Since OpenWISP 23, in the device page, whenever any WiFi
 client data is collected by the
-:doc:`Monitoring module of OpenWISP <../user/monitoring>`,
+:doc:`Monitoring module of OpenWISP </monitoring/user/wifi-sessions>`,
 a "WiFi Sessions" tab will appear as in the screenshot above,
 showing WiFi clients connected right now.
 

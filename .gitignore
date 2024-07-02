@@ -2,3 +2,18 @@
 _build/
 
 .vscode/
+modules/*
+controller
+monitoring
+firmware-upgrader
+notifications
+network-topology
+users
+utils
+openwisp2-docs
+wifi-login-pages
+ipam
+openwrt-config-agent
+openwrt-monitoring-agent
+docker
+ansible
